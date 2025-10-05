@@ -1,3 +1,10 @@
+<!-- Banner Text Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashwat+Singh;+Full+Stack+%7C+MERN+Developer;Always+Learning+%F0%9F%93%9A;Let%E2%80%99s+Build+Something+Amazing!" />
+</p>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on: Building scalable full-stack applications and enhancing my problem-solving skills in Data Structures & Algorithms (C++).  
 🧑‍🤝‍🧑 I’m looking to collaborate on: Full-stack web development projects (Next.js, React, Node.js) and AI/ML-driven platforms.  
